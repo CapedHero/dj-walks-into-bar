@@ -1,0 +1,16 @@
+# Coverage
+htmlcov/
+.coverage
+
+# Flake8
+flake-report/
+
+# PyCharm
+.idea
+
+# Python compiler
+__pycache__/
+
+# The app
+*.env
+*.log
